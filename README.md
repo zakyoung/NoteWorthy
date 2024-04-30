@@ -1,4 +1,4 @@
-#NoteWorthy
+# NoteWorthy
 
 Noteworthy is an iPad-only application designed to enhance the default notes app provided by Apple. The current notes app from Apple is considered more complex than necessary, leading to a need for simpler, more intuitive solutions. Noteworthy aims to offer an intuitive experience at no charge.
 
